@@ -14,9 +14,6 @@ An AI-powered tool that analyzes emails, extracts actionable tasks, and generate
 - Streamlit
 - Ollama (Local LLM)
 
-## 📸 Demo
-(Coming soon)
-
 ## ▶️ How to Run
 
 1. Install dependencies:
